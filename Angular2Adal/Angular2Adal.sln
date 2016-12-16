@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{49680DEB-F384-45C3-98B4-7986F592787E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3DB6C798-360B-4B09-B52F-AF10984501A2}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Angular2Adal", "src\Angular2Adal\Angular2Adal.xproj", "{3ABABEDD-BFA3-4815-9932-FA14AC08E0B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABABEDD-BFA3-4815-9932-FA14AC08E0B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABABEDD-BFA3-4815-9932-FA14AC08E0B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABABEDD-BFA3-4815-9932-FA14AC08E0B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABABEDD-BFA3-4815-9932-FA14AC08E0B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3ABABEDD-BFA3-4815-9932-FA14AC08E0B4} = {49680DEB-F384-45C3-98B4-7986F592787E}
+	EndGlobalSection
+EndGlobal
