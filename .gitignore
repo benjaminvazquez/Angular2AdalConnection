@@ -3,3 +3,8 @@
 ################################################################################
 
 /Angular2Adal/src/Angular2Adal/typings
+/Angular2Adal/src/Angular2Adal/bin/
+/Angular2Adal/src/Angular2Adal/node_modules
+/Angular2Adal/src/Angular2Adal/obj
+/Angular2Adal/src/Angular2Adal/wwwroot/app
+/Angular2Adal/src/Angular2Adal/wwwroot/js
